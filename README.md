@@ -1,12 +1,11 @@
-# SE-L2T07---Capstone-Project-I---OOP
-The first Capstone Project on the second level of my course with Hyperion Development.
+# Poised-1st-Edition-Text-File-Edition
 
-## This project is used to run a project-management-system for an engineering firm named Poised.
+## This project is used to run a project-management-system for an engineering firm named Poised. (Text-File Edition)
 
 
 * **What is this repo or project?**
 
-    This project is used to run a project-management-system for an engineering firm named Poised.
+    This project is used to run a project-management-system for an engineering firm named Poised. The data entered will be stored in text-files.
 * **How does it work?**
 
     This project works with java only and is executed using the 'Poised.java' file. The other files are classes used to create objects in the 'Poised' file. Simply follow the instructions/ options presented to work with the program.
@@ -30,4 +29,4 @@ To test your input/ code, you can look at the output printed on the screen to se
 
 ## How you can help
 
-No help is needed right now, as these are currently being marked to Hyperion-Development's standards. However, if you do see improvements that can be made, then please feel free to point them out :D
+No help is needed right now, as this project is complete. However, if you do see improvements that can be made, then please feel free to point them out :D
